@@ -53,6 +53,5 @@ app.directive('gridstack', ['$timeout', function($timeout) {
 
     }
   };
-
 }]);
 })();
